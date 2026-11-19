@@ -5,6 +5,10 @@
 [Arrakis Toolkit](https://github.com/omeryagci/arrakis-toolkit-tradingview) TradingView indikatörünün cTrader sürümü. C# ile, cTrader Automate için yazıldı.
 The cTrader version of the [Arrakis Toolkit](https://github.com/omeryagci/arrakis-toolkit-tradingview) TradingView indicator, written in C# for cTrader Automate.
 
+> **TradingView** kullanıyorsan: [arrakis-toolkit-tradingview](https://github.com/omeryagci/arrakis-toolkit-tradingview)
+>
+> Using **TradingView**? See [arrakis-toolkit-tradingview](https://github.com/omeryagci/arrakis-toolkit-tradingview)
+
 ![Arrakis Toolkit, cTrader, EURUSD 5m](images/eurusd-5m.png)
 
 ---
